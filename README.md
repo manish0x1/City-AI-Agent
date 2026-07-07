@@ -118,10 +118,6 @@ The application will open in your browser.
 
 ---
 
-## 📸 Demo
-
-You can add screenshots or a demo GIF here.
-
 ---
 
 ## 🤝 Contributing
@@ -135,11 +131,7 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
